@@ -1,6 +1,6 @@
-- 👋 Hi, I’m M4r0x
+- 👋 Hi, I’m M4r0x/Marcel
 - 👀 I’m interested in java,python, kotlin, C++, datastructures, algorythms and ways to grow as a developer
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning C++/SFML Game Dev
 - 💞️ I’m looking to collaborate on nothing right now, although once im more knowledgable and start to lose speed when growing on my own as a developer I will seek to collaborate asap
 - 📫 How to reach me: (Discord - M4r0x | マロックス#1243)
 <!---
